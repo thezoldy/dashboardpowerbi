@@ -1,0 +1,8 @@
+Time_Elapsed: Time elapsed of Created_Date untilmyl Closed_Date.
+
+Current: Current Date
+
+Time_Last_Refresh: Time elapsed of Updated Date untill Current date
+
+Reopen: False if dont open and True if do.
+
