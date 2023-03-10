@@ -1,0 +1,22 @@
+Average Age -> + Tempo (Resolvido)
+7+ Days -> + Tempo (Quase Resolvido)
+
+2 - Active Business Escalations, Active Child Tickets, Database Trend, Active Escalated e Active Escalated Child (?)
+
+2 - App Column (Fazer Pull)
+
+Ative Reopened Tickets (Column Ine Re-open)
+
+if reopen > 0:
+	True
+else:
+	False
+
+Business_Elapsed_Time -> Just Supply Operations
+
+
+
+
+
+
+
